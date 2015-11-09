@@ -1,19 +1,25 @@
-* {
-	border: 1px solid green;
-}
+Qex
 
 .xs-box {
 	background-color: red;
+	color: #fff;
+	height: 100px;
 }
 
 .sm-box {
 	background-color: blue;
+	color: #fff;
+	height: 100px;
 }
 
 .md-box {
 	background-color: orange;
+	color: #fff;
+	height: 100px;
 }
 
 .lg-box {
 	background-color: black;
+	color: #fff;
+	height: 100px;
 }
