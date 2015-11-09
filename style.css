@@ -1,23 +1,15 @@
-.xs-box {
-	background-color: red;
-	color: #fff;
-	height: 100px;
+h1 {
+	text-align: center;
 }
 
-.sm-box {
-	background-color: blue;
+.project-container {
 	color: #fff;
-	height: 100px;
+	height: 300px;
+	padding: 10px;
 }
 
-.md-box {
-	background-color: orange;
-	color: #fff;
-	height: 100px;
-}
-
-.lg-box {
-	background-color: black;
-	color: #fff;
-	height: 100px;
+.project-inner {
+	background-color: #d3d3d3;
+	padding: 10px;
+	height: 250px;
 }
