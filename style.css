@@ -1,0 +1,19 @@
+* {
+	border: 1px solid green;
+}
+
+.xs-box {
+	background-color: red;
+}
+
+.sm-box {
+	background-color: blue;
+}
+
+.md-box {
+	background-color: orange;
+}
+
+.lg-box {
+	background-color: black;
+}
