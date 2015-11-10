@@ -2,6 +2,11 @@ h1 {
 	text-align: center;
 }
 
+.jumbotron {
+	height: 500px;
+}
+
+
 .project-container {
 	color: #fff;
 	height: 220pxg ;
@@ -13,5 +18,10 @@ h1 {
 	padding: 10px;
 	height: 200px;
 	max-width: 250px;
+	margin: 0 auto;
+}
+
+.contact-form {
+	max-width: 500px;
 	margin: 0 auto;
 }
